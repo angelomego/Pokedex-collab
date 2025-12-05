@@ -1,1 +1,3 @@
 Pokemon inicial: Bulbasaur (Grass/Poison) - ID: #001
+
+se añade letras
